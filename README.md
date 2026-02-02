@@ -22,6 +22,9 @@
   <img align="center" alt="Miro" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg">
   <img align="center" alt="ChatGPT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
   <img align="center" alt="Notion" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
+    <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
 </div>
 <!-- break -->
 
