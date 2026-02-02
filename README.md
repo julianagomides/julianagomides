@@ -1,10 +1,10 @@
-## 🫂 Olá, boas vindas!
+### 🫂 Olá, boas vindas!
 - 🔭 Atualmente trabalho na interseção entre ESG, dados e inovação, transformando estratégia em decisões reais.
 - 🎒 Curiosidade: minha trajetória em impacto socioambiental começou depois de viver de perto uma das maiores tragédias ambientais do Brasil.
 - 🌱 Busco evoluir sistemas de dados e indicadores para gerar eficiência e impacto nos resultados.
 <!-- break -->
   
-## 💡 Habilidades:
+### 💡 Habilidades:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,7 +13,7 @@
  </div>
  <!-- break -->
   
-## 🔧 Ferramentas: 
+### 🔧 Ferramentas: 
 <div style="display: inline_block"><br>
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Google Colab" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg">
@@ -25,7 +25,7 @@
 </div>
 <!-- break -->
 
-## 📱 Contatos 
+### 📱 Contatos 
 <div> 
   <a href = "mailto:julianac.gomides@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julianagomides/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
